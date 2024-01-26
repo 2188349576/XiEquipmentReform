@@ -1,0 +1,3 @@
+name: XiEquipmentReform
+version: '${project.version}'
+main: cn.hairuosky.xiequipmentreform.XiEquipmentReform
